@@ -13,7 +13,7 @@ Sovellus luo YouTube-videon aiheesta pikkukuvan (thumbnail) käyttäen OpenAI:n 
   "text": "Exploring deep space and black holes"
 
 ### Generoitu kuva:
-![Kuva1](/ai-thumbnail-generator/thumbnail-1.png)
+![Kuva1](/ai-thumbnail-generator/pic/thumbnail-1.png)
 
 ### Testi 2
 **Syöte:**
@@ -22,4 +22,4 @@ Sovellus luo YouTube-videon aiheesta pikkukuvan (thumbnail) käyttäen OpenAI:n 
 }
 
 ### Generoitu kuva:
-![Kuva1](/ai-thumbnail-generator/thumbnail-2.png)
+![Kuva1](/ai-thumbnail-generator/pic/thumbnail-2.png)
